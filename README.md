@@ -1,2 +1,2 @@
 # Face_Detection
-Face Detection using Haar feature-based cascade face classifier.
+Real-time Face Detection using Haar feature-based cascade face classifier.
